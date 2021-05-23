@@ -5,6 +5,24 @@
 
 **https://github.com/jujhars13/japji-sahib-pauri-5/**
 
+Jujhar Singh (UK)
+
+<!-- Welcome to this video series on Japji, in preparation for the European Yoga Festival. My name is Jujhar Singh from the UK.  Today we are going to reflect on the 5th Pauree of Japji. -->
+
+---
+## ਥਾਪਿਆ ਨ **ਜਾਇ** ਕੀਤਾ ਨ ਹੋਇ ॥
+## ਆਪੇ **ਆਪਿ** ਨਿਰੰਜਨੁ ਸੋਇ ॥
+## ਜਿਨਿ **ਸੇਵਿਆ** ਤਿਨਿ ਪਾਇਆ ਮਾਨੁ ॥
+## ਨਾਨਕ **ਗਾਵੀਐ** ਗੁਣੀ ਨਿਧਾਨੁ ॥
+## ਗਾਵੀਐ **ਸੁਣੀਐ** ਮਨਿ ਰਖੀਐ ਭਾਉ ॥
+
+---
+
+## ਦੁਖੁ **ਪਰਹਰਿ** ਸੁਖੁ ਘਰਿ ਲੈ ਜਾਇ ॥
+## ਗੁਰਮੁਖਿ **ਨਾਦੰ** ਗੁਰਮੁਖਿ **ਵੇਦੰ** ਗੁਰਮੁਖਿ ਰਹਿਆ ਸਮਾਈ ॥
+## ਗੁਰੁ **ਈਸਰੁ** ਗੁਰੁ **ਗੋਰਖੁ** ਬਰਮਾ **ਗੁਰੁ** ਪਾਰਬਤੀ ਮਾਈ ॥
+## ਜੇ ਹਉ **ਜਾਣਾ** ਆਖਾ **ਨਾਹੀ** ਕਹਣਾ ਕਥਨੁ ਨ ਜਾਈ ॥
+## ਸਭਨਾ ਜੀਆ ਕਾ ਇਕੁ **ਦਾਤਾ** ਸੋ **ਮੈ** ਵਿਸਰਿ ਨ ਜਾਈ ॥੫॥
 ---
 
 ## ਥਾਪਿਆ ਨ **ਜਾਇ** ਕੀਤਾ ਨ ਹੋਇ ॥
@@ -33,7 +51,9 @@
 
 ## ਗਾਵੀਐ **ਸੁਣੀਐ** ਮਨਿ ਰਖੀਐ ਭਾਉ ॥
 *gaaveeaai suneeaai man rakheeaai bhaau ||*
-### Sing, hear, and let your conciousness be filled with love.
+### Sing, hear, and fill your conciousness with love.
+
+<!-- The word man here is usually translated as mind -->
 
 ---
 
@@ -44,7 +64,9 @@
 ---
 
 ## ਗੁਰਮੁਖਿ **ਨਾਦੰ** ਗੁਰਮੁਖਿ **ਵੇਦੰ** ਗੁਰਮੁਖਿ ਰਹਿਆ ਸਮਾਈ ॥
+
 *gurmukh naadha(n) gurmukh vedha(n) gurmukh rahiaa samaiee ||*
+
 ### The Guru's word is the Naad; the Guru's word is the wisdom of the Veds; the Guru's word will always pervade...
 
 ---
