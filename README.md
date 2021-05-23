@@ -7,9 +7,9 @@ Using [Marp](https://www.npmjs.com/package/@marp-team/marp-cli) to render the ma
 ## To Render
 
 ```bash
-# remember to `npm install`
-inotify node_modules/.bin/marp pauri.md -o index.html
-node_modules/.bin/reload -e "html|js|css|json"
+# remember to `npm install` for deps
+# watch changes and add preview window
+node_modules/.bin/marp --watch pauri.md -o index.html --preview
 ```
 
 ## References

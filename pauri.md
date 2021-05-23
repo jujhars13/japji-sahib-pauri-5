@@ -7,75 +7,80 @@
 
 ---
 
-ਥਾਪਿਆ ਨ ਜਾਇ ਕੀਤਾ ਨ ਹੋਇ ॥
-thaapiaa na jai keetaa na hoi ||
-She cannot be established, she cannot be created.
+## ਥਾਪਿਆ ਨ **ਜਾਇ** ਕੀਤਾ ਨ ਹੋਇ ॥
+*thaapiaa na jai keetaa na hoi ||*
+### She cannot be established, she cannot be created.
 
 ---
 
-ਆਪੇ ਆਪਿ ਨਿਰੰਜਨੁ ਸੋਇ ॥
-aape aap nira(n)jan soi ||
-She is pure in and of herself.
+## ਆਪੇ **ਆਪਿ** ਨਿਰੰਜਨੁ ਸੋਇ ॥
+*aape aap nira(n)jan soi ||*
+### She is pure in and of herself.
 
 ---
 
-ਜਿਨਿ ਸੇਵਿਆ ਤਿਨਿ ਪਾਇਆ ਮਾਨੁ ॥
-jin seviaa tin paiaa maan ||
-Those who serve her are honored.
+## ਜਿਨਿ **ਸੇਵਿਆ** ਤਿਨਿ ਪਾਇਆ ਮਾਨੁ ॥
+*jin seviaa tin paiaa maan ||*
+### Those who serve her are honored.
 
 ---
 
-ਨਾਨਕ ਗਾਵੀਐ ਗੁਣੀ ਨਿਧਾਨੁ ॥
-naanak gaaveeaai gunee nidhaan ||
-O Nanak, sing of her - the very source of all gifts.
+## ਨਾਨਕ **ਗਾਵੀਐ** ਗੁਣੀ ਨਿਧਾਨੁ ॥
+*naanak gaaveeaai gunee nidhaan ||*
+### O Nanak, sing of her - the very source of all gifts.
 
 ---
 
-ਗਾਵੀਐ ਸੁਣੀਐ ਮਨਿ ਰਖੀਐ ਭਾਉ ॥
-gaaveeaai suneeaai man rakheeaai bhaau ||
-Sing, hear, and let your conciousness be filled with love.
+## ਗਾਵੀਐ **ਸੁਣੀਐ** ਮਨਿ ਰਖੀਐ ਭਾਉ ॥
+*gaaveeaai suneeaai man rakheeaai bhaau ||*
+### Sing, hear, and let your conciousness be filled with love.
 
 ---
 
-ਦੁਖੁ ਪਰਹਰਿ ਸੁਖੁ ਘਰਿ ਲੈ ਜਾਇ ॥
-dhukh parahar sukh ghar lai jai ||
-Your pain shall be sent out, and peace shall come in.
+## ਦੁਖੁ **ਪਰਹਰਿ** ਸੁਖੁ ਘਰਿ ਲੈ ਜਾਇ ॥
+*dhukh parahar sukh ghar lai jai ||*
+### Pain shall be sent out from your home, and peace shall come in.
 
 ---
 
-ਗੁਰਮੁਖਿ ਨਾਦੰ ਗੁਰਮੁਖਿ ਵੇਦੰ ਗੁਰਮੁਖਿ ਰਹਿਆ ਸਮਾਈ ॥
-gurmukh naadha(n) gurmukh vedha(n) gurmukh rahiaa samaiee ||
-The Guru's word is the Naad; the Guru's word is the wisdom of the Vedas; the Guru's word will always pervade...
+## ਗੁਰਮੁਖਿ **ਨਾਦੰ** ਗੁਰਮੁਖਿ **ਵੇਦੰ** ਗੁਰਮੁਖਿ ਰਹਿਆ ਸਮਾਈ ॥
+*gurmukh naadha(n) gurmukh vedha(n) gurmukh rahiaa samaiee ||*
+### The Guru's word is the Naad; the Guru's word is the wisdom of the Veds; the Guru's word will always pervade...
 
 ---
 
-ਗੁਰੁ ਈਸਰੁ ਗੁਰੁ ਗੋਰਖੁ ਬਰਮਾ ਗੁਰੁ ਪਾਰਬਤੀ ਮਾਈ ॥
-gur ieesar gur gorakh baramaa gur paarabatee maiee ||
-The Guru is all aspects of existence.  The Guru is death, the Guru the nurturer the Guru is the creator.
+## ਗੁਰੁ **ਈਸਰੁ** ਗੁਰੁ **ਗੋਰਖੁ** ਬਰਮਾ **ਗੁਰੁ** ਪਾਰਬਤੀ ਮਾਈ ॥
+*gur ieesar gur gorakh baramaa gur paarabatee maiee ||*
+### The Guru is all aspects of existence.  The Guru is death, the Guru the nurturer the Guru is the creator.
 
-The Guru is Shiva, the Guru is Vishnu and Brahma.  The Guru is Paarvati and Lakhshmi.
+<!-- The Guru is Shiva, the Guru is Vishnu and Brahma.  The Guru is Paarvati and Lakhshmi.
 The Guru is the destroyer, the preserver , the creator and the nurturer in both male and feminine aspects
-In more male-centric forms of Hindu doctrine the Trimurti is expresed in the masculine form as Brahma, Vishnu and Shiva and that Lakshmi and Sarasvati are mere consorts to the dominant male Gods.  But in the Shaktidharma expression of Hindusm the feminine aspects are dominant and expressed as Saarasvati (creator), Lakhsmi(preserver) and Kali (the destroyer).  What's interesting here is that Guru has used the language of both male and female expressions thereby furtuhur emphasising the beyondness and all encompasing nature of the Guru.  Remember that the purest form of the Guru is Shabad Guru and is beyond gender.
+In more male-centric forms of Hindu doctrine the Trimurti is expresed in the masculine form as Brahma, Vishnu and Shiva and that Lakshmi and Sarasvati are mere consorts to the dominant male Gods.  But in the Shaktidharma expression of Hindusm the feminine aspects are dominant and expressed as Saarasvati (creator), Lakhsmi(preserver) and Kali (the destroyer).  What's interesting here is that Guru has used the language of both male and female expressions thereby furtuhur emphasising the beyondness and all encompasing nature of the Guru.  Remember that the purest form of the Guru is Shabad Guru and is beyond gender. -->
 
 ---
 
-ਜੇ ਹਉ ਜਾਣਾ ਆਖਾ ਨਾਹੀ ਕਹਣਾ ਕਥਨੁ ਨ ਜਾਈ ॥
-je hau jaanaa aakhaa naahee kahanaa kathan na jaiee ||
-If I knew her - really knew her, I wouldn't be able to say anything.  She cannot be expressed in words or ideas.
+## ਜੇ ਹਉ **ਜਾਣਾ** ਆਖਾ **ਨਾਹੀ** ਕਹਣਾ ਕਥਨੁ ਨ ਜਾਈ ॥
+*je hau jaanaa aakhaa naahee kahanaa kathan na jaiee ||*
+### If I (truly) knew her, I wouldn't be able to say anything.  She cannot be expressed in words or ideas.
 
 ---
 
-ਗੁਰਾ ਇਕ ਦੇਹਿ ਬੁਝਾਈ ॥
-guraa ik dheh bujhaiee ||
-The Guru has given me this one understanding:
+## **ਗੁਰਾ** ਇਕ ਦੇਹਿ ਬੁਝਾਈ ॥
+*guraa ik dheh bujhaiee ||*
+### The Guru has given me this one understanding:
 
 ---
 
-ਸਭਨਾ ਜੀਆ ਕਾ ਇਕੁ ਦਾਤਾ ਸੋ ਮੈ ਵਿਸਰਿ ਨ ਜਾਈ ॥੫॥
-sabhanaa jeeaa kaa ik dhaataa so mai visar na jaiee ||5||
-There is only the One who gives to all. May I never forget her ||5||
+## ਸਭਨਾ ਜੀਆ ਕਾ ਇਕੁ **ਦਾਤਾ** ਸੋ **ਮੈ** ਵਿਸਰਿ ਨ ਜਾਈ ॥੫॥
+*sabhanaa jeeaa kaa ik dhaataa so mai visar na jaiee ||5||*
+### There is only the One who gives to all. May I never forget her ||5||
 
 ---
+.
+
+---
+.
+
 ---
 
 ## Addendum
