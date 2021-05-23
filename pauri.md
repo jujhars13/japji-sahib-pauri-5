@@ -1,63 +1,67 @@
 
-# 5th Pauri
+# Japji Sahib
+
+## 5th Pauri
+
+**https://github.com/jujhars13/japji-sahib-pauri-5/**
 
 ---
 
-- ਥਾਪਿਆ ਨ ਜਾਇ ਕੀਤਾ ਨ ਹੋਇ ॥
+ਥਾਪਿਆ ਨ ਜਾਇ ਕੀਤਾ ਨ ਹੋਇ ॥
 thaapiaa na jai keetaa na hoi ||
-He cannot be established, He cannot be created.
----
+She cannot be established, she cannot be created.
 
+---
 
 ਆਪੇ ਆਪਿ ਨਿਰੰਜਨੁ ਸੋਇ ॥
 aape aap nira(n)jan soi ||
-He Himself is Immaculate and Pure.
+She is pure in and of herself.
 
 ---
 
 ਜਿਨਿ ਸੇਵਿਆ ਤਿਨਿ ਪਾਇਆ ਮਾਨੁ ॥
 jin seviaa tin paiaa maan ||
-Those who serve Him are honored.
+Those who serve her are honored.
 
 ---
 
 ਨਾਨਕ ਗਾਵੀਐ ਗੁਣੀ ਨਿਧਾਨੁ ॥
 naanak gaaveeaai gunee nidhaan ||
-O Nanak, sing of the Lord, the Treasure of Excellence.
+O Nanak, sing of her - the very source of all gifts.
 
 ---
 
 ਗਾਵੀਐ ਸੁਣੀਐ ਮਨਿ ਰਖੀਐ ਭਾਉ ॥
 gaaveeaai suneeaai man rakheeaai bhaau ||
-Sing, and listen, and let your mind be filled with love.
+Sing, hear, and let your conciousness be filled with love.
 
 ---
 
 ਦੁਖੁ ਪਰਹਰਿ ਸੁਖੁ ਘਰਿ ਲੈ ਜਾਇ ॥
 dhukh parahar sukh ghar lai jai ||
-Your pain shall be sent far away, and peace shall come to your home.
+Your pain shall be sent out, and peace shall come in.
 
 ---
 
 ਗੁਰਮੁਖਿ ਨਾਦੰ ਗੁਰਮੁਖਿ ਵੇਦੰ ਗੁਰਮੁਖਿ ਰਹਿਆ ਸਮਾਈ ॥
 gurmukh naadha(n) gurmukh vedha(n) gurmukh rahiaa samaiee ||
-The Guru's Word is the Sound-current of the Naad; the Guru's Word is the Wisdom of the Vedas; the Guru's Word is all-pervading.
+The Guru's word is the Naad; the Guru's word is the wisdom of the Vedas; the Guru's word will always pervade...
 
 ---
 
 ਗੁਰੁ ਈਸਰੁ ਗੁਰੁ ਗੋਰਖੁ ਬਰਮਾ ਗੁਰੁ ਪਾਰਬਤੀ ਮਾਈ ॥
 gur ieesar gur gorakh baramaa gur paarabatee maiee ||
-The Guru is all aspects of everything.  The Guru is brith and death and the creation that hosts that very cycle.
+The Guru is all aspects of existence.  The Guru is death, the Guru the nurturer the Guru is the creator.
+
 The Guru is Shiva, the Guru is Vishnu and Brahma.  The Guru is Paarvati and Lakhshmi.
 The Guru is the destroyer, the preserver , the creator and the nurturer in both male and feminine aspects
-In more male-centric forms of Hindu doctrine the Trimurti is expresed in the masculine form as Brahma, Vishnu and Shiva and that Lakshmi and Sarasvati are mere consorts to the dominant male Gods.  But in the Shaktidharma expression of Hindusm the feminine aspects are dominant and expressed as Saarasvati (creator), Lakhsmi(preserver) and Kali (the destroyer).  What's interesting here is that Guru has used the language of both male and female expressions thereby furtuhur emphasising the beyondness and all encompasing nature of the Guru.  Remember that the purest form of the Guru is Shabad Guru and is beyond gender. 
-
+In more male-centric forms of Hindu doctrine the Trimurti is expresed in the masculine form as Brahma, Vishnu and Shiva and that Lakshmi and Sarasvati are mere consorts to the dominant male Gods.  But in the Shaktidharma expression of Hindusm the feminine aspects are dominant and expressed as Saarasvati (creator), Lakhsmi(preserver) and Kali (the destroyer).  What's interesting here is that Guru has used the language of both male and female expressions thereby furtuhur emphasising the beyondness and all encompasing nature of the Guru.  Remember that the purest form of the Guru is Shabad Guru and is beyond gender.
 
 ---
 
 ਜੇ ਹਉ ਜਾਣਾ ਆਖਾ ਨਾਹੀ ਕਹਣਾ ਕਥਨੁ ਨ ਜਾਈ ॥
 je hau jaanaa aakhaa naahee kahanaa kathan na jaiee ||
-Even knowing God, I cannot describe Him; He cannot be described in words.
+If I knew her - really knew her, I wouldn't be able to say anything.  She cannot be expressed in words or ideas.
 
 ---
 
@@ -69,9 +73,11 @@ The Guru has given me this one understanding:
 
 ਸਭਨਾ ਜੀਆ ਕਾ ਇਕੁ ਦਾਤਾ ਸੋ ਮੈ ਵਿਸਰਿ ਨ ਜਾਈ ॥੫॥
 sabhanaa jeeaa kaa ik dhaataa so mai visar na jaiee ||5||
-there is only the One, the Giver of all souls. May I never forget Him! ||5||
+There is only the One who gives to all. May I never forget her ||5||
 
-----
+---
+---
+
 ## Addendum
 
 ---

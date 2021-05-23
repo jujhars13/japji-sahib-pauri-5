@@ -8,7 +8,8 @@ Using [Marp](https://www.npmjs.com/package/@marp-team/marp-cli) to render the ma
 
 ```bash
 # remember to `npm install`
-inotify node_modules/.bin/marp pauri.md && chromium pauri.html
+inotify node_modules/.bin/marp pauri.md -o index.html
+node_modules/.bin/reload -e "html|js|css|json"
 ```
 
 ## References
@@ -17,7 +18,8 @@ inotify node_modules/.bin/marp pauri.md && chromium pauri.html
 - [https://www.sikhitothemax.org/shabad?id=5&q=geggb&type=0&source=all&highlight=45]()
 - [Fareedkot Teeka](https://www.sikhiwiki.org/index.php/Faridkot_Tika)
 - [Sahib Singh's Gurbani Darpan](http://www.gurugranthdarpan.net/darpan.html)
-- [Giani Takhur Singh Katha]
+- Giani Takhur Singh Katha
+- [Wikipedia: Tridevi](https://en.wikipedia.org/wiki/Tridevi)
 
 ## Licence
 
