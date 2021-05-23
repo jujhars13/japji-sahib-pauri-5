@@ -23,4 +23,4 @@ node_modules/.bin/reload -e "html|js|css|json"
 
 ## Licence
 
-[MIT][LICENCE]
+[MIT](LICENCE)
